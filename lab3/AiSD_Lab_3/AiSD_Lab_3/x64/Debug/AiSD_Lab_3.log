@@ -1,0 +1,4 @@
+﻿  Lab_3_AiSD.cpp
+D:\BSTU\Kurs_2_1\AiSD\lab3\AiSD_Lab_3\AiSD_Lab_3\Lab_3_AiSD.cpp(8,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\BSTU\Kurs_2_1\AiSD\lab3\AiSD_Lab_3\AiSD_Lab_3\Lab_3_AiSD.cpp(10,6): warning C4101: start: неиспользованная локальная переменная
+  AiSD_Lab_3.vcxproj -> D:\BSTU\Kurs_2_1\AiSD\lab3\AiSD_Lab_3\x64\Debug\AiSD_Lab_3.exe

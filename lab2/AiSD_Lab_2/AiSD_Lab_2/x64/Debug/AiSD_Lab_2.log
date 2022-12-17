@@ -1,0 +1,3 @@
+﻿  AiSD_Lab_2.cpp
+D:\BSTU\Kurs_2_1\AiSD\lab2\AiSD_Lab_2\AiSD_Lab_2\AiSD_Lab_2.cpp(34,14): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  AiSD_Lab_2.vcxproj -> D:\BSTU\Kurs_2_1\AiSD\lab2\AiSD_Lab_2\x64\Debug\AiSD_Lab_2.exe

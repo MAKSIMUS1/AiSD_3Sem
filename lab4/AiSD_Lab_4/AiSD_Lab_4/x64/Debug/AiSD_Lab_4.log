@@ -1,0 +1,3 @@
+﻿  FloydWarshallAlgorithm.cpp
+D:\BSTU\Kurs_2_1\AiSD\lab4\AiSD_Lab_4\AiSD_Lab_4\FloydWarshallAlgorithm.cpp(30,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  AiSD_Lab_4.vcxproj -> D:\BSTU\Kurs_2_1\AiSD\lab4\AiSD_Lab_4\x64\Debug\AiSD_Lab_4.exe
