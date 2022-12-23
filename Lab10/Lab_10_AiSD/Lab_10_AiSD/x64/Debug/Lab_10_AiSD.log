@@ -1,0 +1,11 @@
+﻿  Lab_10_AiSD.cpp
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(71,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(130,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(172,23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(191,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(201,25): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(238,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(242,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(246,27): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\Lab_10_AiSD\Lab_10_AiSD.cpp(250,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Lab_10_AiSD.vcxproj -> D:\BSTU\Kurs_2_1\AiSD\Lab10\Lab_10_AiSD\x64\Debug\Lab_10_AiSD.exe
